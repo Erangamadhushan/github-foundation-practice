@@ -3,3 +3,6 @@
 
 # Documentation owners
 *.md @Erangamadhushan
+
+# Build owners
+*.py @Erangamadhushan
